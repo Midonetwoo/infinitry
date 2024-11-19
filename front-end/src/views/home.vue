@@ -1,5 +1,4 @@
 <script setup>
-import Navbar from '../components/Navbar.vue';
 </script>
 
 <template>
@@ -8,4 +7,5 @@ import Navbar from '../components/Navbar.vue';
      <h1 class="display-5 fw-bold">VUE 3 (VITE) + LARAVEL 10</h1>
    </div>
  </div>
+
 </template>
